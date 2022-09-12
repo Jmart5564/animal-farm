@@ -1,4 +1,4 @@
-
+import './Animal.css';
 
 
 export default function Animal({ name, says, top, left, type }) {
